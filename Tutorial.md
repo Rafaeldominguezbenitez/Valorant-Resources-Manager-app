@@ -1,0 +1,13 @@
+How it Works
+Choose your map and agent: Start by selecting a map and the agent you played.
+
+Upload your clips: Upload your gameplay videos, strategies, or lineups for that specific map and agent combination.
+
+Organized videos: Your videos will be automatically saved and organized by map and agent, ready for you to watch whenever you want.
+
+Key Features
+File Management: Delete videos you no longer need and rename files to keep everything organized.
+
+Playback Controls: Pause, play, or adjust the volume of each video individually.
+
+Simple Interface: All within a clean, intuitive interface, perfect for reviewing your plays.
